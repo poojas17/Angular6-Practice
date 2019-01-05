@@ -1,0 +1,29 @@
+.address-card{
+    border: 1px gray solid;
+    padding: 15px;
+    align-content: center;
+    text-align: center;
+}
+
+.name
+{
+    font-family: "Monotype Corsiva", 'Courier New', Courier, monospace;
+}
+
+.title
+{
+    font-style: bold;
+}
+
+.address
+{
+    font-size: 17px;
+    font-style: oblique;
+}
+
+.phone
+{
+    border-left: 1px purple solid;
+    padding-left:5px;
+}
+
